@@ -1,1 +1,2 @@
-
+Dated: 4 March 2024
+  Day two of the training was good learned about different operators available in Java that are mainly of five types: Arithmetic, Logical, Relational, Assignment and Bitwise operations. Today's session was mainly focussed on the arithmetic ones. After that we studied separators, parenthesis and as two to set up java development environment in a system.
