@@ -1,0 +1,2 @@
+Greetings, 
+    Today's session was quite focussed on taking inputs from the user and using that inputs for performing various operations on that data . Using the scanner class and creating its object for taking inputs was quite challenging syntax, then with time it went good . Java really do have a lost of next methods that can be simply used for taking the input and as well as validating it.
