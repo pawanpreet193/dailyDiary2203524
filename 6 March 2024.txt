@@ -1,1 +1,2 @@
-
+Greetings, 
+  With some introduction to why do we need loops, and how useful they actually are. We went on to study different types of loops, namely the for loop, while loop and do while loop. Syntax wise they were quite similar to what we had earlier studied in C, and C++ and had some practice problems on loops like reversing a number, finding sum on n natural numbers and finding prime numbers, etc . As homework, we had some Pattern printing problems that were quite interesting and challenging, just a bit advanced from what we had studied in the class. 
