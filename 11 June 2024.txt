@@ -1,0 +1,2 @@
+Greetings, 
+   Today was focussed on discussion on static and and non static methods and related programs also. A static method is a method that belongs to a class, but it does not belong to an instance of that class and this method can be called without the instance or object of that class. On the other hand, Every method in Java defaults to a non-static method without a static keyword preceding it. non-static methods can access any static method and static variable also, without using the object of the class.
