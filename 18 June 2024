@@ -1,0 +1,14 @@
+Greetings, 
+    Today's Java training session was centered around various sorting algorithms, each with its own unique approach and use cases. We covered:
+1. Bubble Sort:
+Bubble sort is a simple comparison-based algorithm where each element is compared with the adjacent element and swapped if they are in the wrong order. This process is repeated until the array is sorted. Although easy to understand and implement, bubble sort is not efficient for large datasets due to its O(n^2) time complexity.
+2. Insertion Sort:
+Insertion sort works by building a sorted portion of the array one element at a time. It picks the next element from the unsorted portion and inserts it into the correct position within the sorted portion. This algorithm is efficient for small datasets or nearly sorted arrays, with an average and worst-case time complexity of O(n^2).
+3. Counting Sort:
+Counting sort is an integer sorting algorithm that operates by counting the number of occurrences of each distinct element in the array. It then calculates the position of each element in the sorted output array. This algorithm is particularly efficient for sorting integers within a specific range and has a time complexity of O(n + k), where k is the range of the input.
+4. Selection Sort:
+Selection sort repeatedly selects the smallest (or largest) element from the unsorted portion of the array and swaps it with the first unsorted element. This process is continued until the entire array is sorted. Like bubble sort, selection sort has an O(n^2) time complexity, making it inefficient for large datasets but useful for its simplicity.
+5. Inbuilt Sort:
+Java's inbuilt sort method, Arrays.sort(), uses a highly optimized version of the Timsort algorithm, which is a hybrid sorting algorithm derived from merge sort and insertion sort. This method is extremely efficient, with a time complexity of O(n log n) in the average and worst cases. Using inbuilt sort methods is recommended for most practical applications due to their performance and ease of use.
+
+Today's session provided a comprehensive overview of these fundamental sorting algorithms, helping me understand their inner workings, advantages, and limitations. These concepts are crucial for efficient data manipulation and problem-solving in computer science.
