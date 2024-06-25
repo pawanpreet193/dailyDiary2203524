@@ -1,0 +1,4 @@
+Greetings,
+    Today in my Java summer training, I delved into several interesting topics. First, I learned about Armstrong numbers, which are numbers that are equal to the sum of their own digits each raised to the power of the number of digits. Writing a program to identify Armstrong numbers enhanced my understanding of loops and conditionals.
+
+Next, I explored how to reverse a number, a fundamental concept that solidified my grasp of control structures and mathematical operations. Additionally, we covered strings in Java, focusing on their manipulation using methods like substring, concat, and length. The use of reference variables was also discussed, illustrating how objects are handled in memory. This session helped me gain a better understanding of object references and memory management in Java. Overall, it was a productive day packed with hands-on coding and theoretical learning.
