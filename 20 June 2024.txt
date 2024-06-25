@@ -1,0 +1,12 @@
+Greetings,
+    Continuing with our bit manipulation journey, today’s focus was on practical applications and advanced techniques such as fast exponentiation.
+1. Practical Examples:
+Count the number of 1s in the binary representation of a number: Using n & (n - 1) repeatedly until n becomes zero.
+Power of Two Check: A number is a power of two if n & (n - 1) == 0.
+Reversing bits in a number: Implementing a function to reverse the bits of a given integer.
+2. Fast Exponentiation using Bit Manipulation:
+We also learned about fast exponentiation (also known as exponentiation by squaring), which uses bit manipulation to efficiently compute powers. The algorithm involves:
+
+Representing the exponent in binary.
+Iterating through the bits of the exponent and multiplying the result by the base raised to the power of the current bit's position, if the bit is 1.
+This session has equipped me with powerful tools for optimizing code performance, making me more proficient in handling complex problems efficiently. The hands-on examples solidified my understanding and demonstrated the practical benefits of bit manipulation.
